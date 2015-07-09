@@ -15,4 +15,3 @@ This repository represents work on the Structure and Interpretation of Computer 
 
 Enclosed are solutions to exercises and general thoughts.
 
--A
